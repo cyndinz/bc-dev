@@ -2,7 +2,7 @@
 <br>
 This walkthrough will guide you through all the steps that you must follow to create a sample extension in AL. New objects and extension objects will be added to the base application for a simple reward feature for customers. Every section of this exercise includes code that serves for installing, customizing, or upgrading this sample extension. The final result can be published and installed on your tenants.
 <br>
-<h2>About this walkthrough<h2>
+<h2>About this walkthrough</h2>
 This walkthrough illustrates the following tasks:
 <ul>
 <li>Developing a sample extension with a table, a card page, and a list page.</li>
